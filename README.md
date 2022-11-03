@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jackson0NYT
+- 👀 I’m interested in Gaming, pc's, Keyboards, And Coding
+- 🌱 I’m currently learning Javascript
